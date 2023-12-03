@@ -11,11 +11,40 @@
 
 // const gender3 = "female";
 
+const users = [1,2,3]
 
-const users1 = {
-    firstName: "Abhi",
-    gender: "male"
+const users2 = ["Abhi", "raman"]
+
+
+
+// const users1 = {
+//     firstName: "Abhi",
+//     gender: "male"
+// }
+
+
+// console.log(users1["gender"])
+
+
+// const allUsers = [{
+
+//   firstName: "Abhi",
+//   gender:"male"
+
+
+// }]
+
+
+// for(let i = 0; i<allUsers.length;i++){
+//     if(allUsers)
+// }
+
+
+function sum( a,b){
+    return a +b;
 }
 
 
-console.log(users1["gender"])
+const value =  sum(1,2)
+
+console.log(value);
