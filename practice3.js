@@ -40,11 +40,39 @@
 // }
 
 
-function sum( a,b){
-    return a +b;
+// function sum( a,b){
+//     return a +b;
+// }
+
+
+// const value =  sum(1,2)
+
+// console.log(value);
+
+// let sum = 0;
+
+//  for (let i = 0; i < 100000000000; i++) { sum = sum + i; }
+
+// console.log(sum);
+
+
+// function sum(num1, num2) {
+//     let result = num1 + num2;
+//     return result;
+// }
+
+// function displayResult(data) {
+//     console.log("Result of the sum is : " + data);
+// }
+
+// function displayResultPassive(data) {
+//     console.log("Sum's result is : " + data);
+// }
+
+
+function greet() {
+    console.log("hello worls");
 }
 
 
-const value =  sum(1,2)
-
-console.log(value);
+setTimeout(greet, 3 *1000)
