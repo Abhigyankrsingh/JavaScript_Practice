@@ -13,6 +13,17 @@ let age = 18;
 let isMarried = false;
 
 
-console.log("This person is " + firstName + " and is " + age)
+// console.log("This person is " + firstName + " and is " + age)
 
-console.log("The name is")
+// console.log("The name is")
+
+
+if(isMarried == true){
+    console.log(firstName + " is married");
+}
+
+if(isMarried == false){
+    console.log(firstName + " is not  married");
+}
+
+
