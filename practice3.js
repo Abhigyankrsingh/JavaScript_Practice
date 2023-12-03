@@ -11,9 +11,9 @@
 
 // const gender3 = "female";
 
-const users = [1,2,3]
+// const users = [1,2,3]
 
-const users2 = ["Abhi", "raman"]
+// const users2 = ["Abhi", "raman"]
 
 
 
