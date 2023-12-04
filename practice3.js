@@ -70,9 +70,16 @@
 // }
 
 
-function greet() {
-    console.log("hello worls");
+// function greet() {
+//     console.log("hello worls");
+// }
+
+
+// setTimeout(greet, 3 *1000)
+
+
+function greet(){
+    console.log("hello");
 }
 
-
-setTimeout(greet, 3 *1000)
+setTimeout(1, 1*1000)
