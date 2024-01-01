@@ -13,7 +13,7 @@ let age = 18;
 let isMarried = false;
 
 
-// console.log("This person is " + firstName + " and is " + age)
+console.log("This person is " + firstName + " and is " + age)
 
 // console.log("The name is")
 
