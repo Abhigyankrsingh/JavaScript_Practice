@@ -15,7 +15,7 @@ let isMarried = false;
 
 console.log("This person is " + firstName + " and is " + age)
 
-// console.log("The name is")
+console.log("The name is")
 
 
 if(isMarried == true){
